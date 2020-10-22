@@ -1,0 +1,2 @@
+# nuxseOS
+try  os
